@@ -37,7 +37,8 @@ We are using a progressive image rendering on the website. It means that browser
 The grid is the common language that will help the designer and developer communicate how space, perspective, and aspect ratios work and appear.
 
 We are using a [Bootstrap 4.0](https://getbootstrap.com/docs/4.2/layout/grid/) grid system with gaps.
-**[DEMO example is here](https://codepen.io/RayDevAlo/full/ebEmyq)
+
+[DEMO example is here](https://codepen.io/RayDevAlo/full/ebEmyq)
 
 ### Max container width
 
