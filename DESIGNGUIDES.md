@@ -43,7 +43,7 @@ We are using a [Bootstrap 4.0](https://getbootstrap.com/docs/4.2/layout/grid/) g
 12 columns
 
 ### Gap size
-30px (15px on each side of a column). Gap size never changes. Column size depends on the window size.
+30px (15px on each side of a column). Gap size is static and never changes. Column size is dynamic and depends on the window size.
 
 ### Spacing
 
