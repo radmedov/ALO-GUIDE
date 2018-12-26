@@ -28,9 +28,9 @@
 
 - **File format:** `JPG` only.
 
-> **All other assets must be at least @3x (e.g., if image has width 500px in sketch/psd export as 500 * 3=1500px).
+> **NOTE:** All other assets must be at least @3x (e.g., if image has width 500px in sketch/psd export as 500 * 3=1500px).
 
-> **A gradient is not allowed on the Universal Banners.
+> **IMPORTANT:** A gradient is not allowed on the Universal Banners.
 
 ## The grid
 
@@ -62,9 +62,9 @@ Large: 990px;
 Widescreen: 1366px;
 ```
 
-> **Mobile version <768px, Desktop version ≥768px
+> **NOTE:** Mobile version <768px, Desktop version ≥768px
 
-> **Please, never start an element in the gap. Only inside of columns!!!
+> **IMPORTANT:** Please, never start an element in the gap. Only inside of columns!!!
 
 ## Fonts
 
@@ -82,7 +82,7 @@ We are using only following fonts on the web-site:
 
 - **Arquitecta Medium**
 
-> **Never use `ITALIC` font style.
+> **NOTE:** Never use `ITALIC` font style.
 
 ## Sketch/PSD file requirements
 
@@ -104,4 +104,4 @@ All icons and logos must be implemented as a `VECTOR ASSET` only. Never use `JPG
 ### Font layers
 All font layers must be implemented as a `TEXT` only. Never use pictures with text. Every paragraph, title, subtitle etc must have its own layer.
 
-> **Please, never use `SCREENSHOTS` in the design files. Only high-quality assets.
+> **IMPORTANT:** Please, never use `SCREENSHOTS` in the design files. Only high-quality assets.
