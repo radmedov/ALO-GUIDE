@@ -5,7 +5,7 @@
 1. [The Grid](#the-grid)
 2. [Assets requirements](#assets-requirements)
 3. [Fonts](#fonts)
-4. [Sketch/PSD file requirements](#sketch-psd-file-requiremets)
+4. [Sketch/PSD file requirements](#sketchpsd-file-requiremets)
 
 ## The Grid
 
