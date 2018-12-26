@@ -31,17 +31,17 @@ Widescreen: 1366px;
 
 > ****We are using a progressive image rendering on the website. It means that browser is loading the images according to the screen DPR(Device Pixel Ratio) of the user(e.g., If the user has 4K/5K/Retina monitor the browser will load only high-resolution assets and vice versa.). It's very important to upload only the assets with the following sizes:
 
-- **Universal Banners:** Desktop - 2340px width, Mobile - 1200px width.
+- **Universal Banners:** Desktop - `2340px` width, Mobile - `1200px` width.
 
-- **Homepage images:** Desktop - 2340px width, Mobile - 750px width.
+- **Homepage images:** Desktop - `2340px` width, Mobile - `750px` width.
 
-- **Full screem images:** Desktop - 5760px width, Mobile, 2340px width. 
+- **Full screem images:** Desktop - `5760px` width, Mobile, `2340px` width. 
 
-- **Collection's full screen image:** 5760px width.
+- **Collection's full screen image:** `5760px` width.
 
-- **Product image:** 930px width.
+- **Product image:** `930px` width.
 
-- **File format:** JPG only.
+- **File format:** `JPG` only.
 
 > **All other assets must be at least @3x (e.g., if image has width 500px in sketch/psd export as 500 * 3=1500px).
 
