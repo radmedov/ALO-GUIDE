@@ -45,6 +45,8 @@ Widescreen: 1366px;
 
 > **All other assets must be at least @3x (e.g., if image has width 500px in sketch/psd export as 500 * 3=1500px).
 
+> **A gradient is not allowed on the Universal Banners.
+
 ## Fonts
 
 We are using only following fonts on the web-site:
