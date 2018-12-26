@@ -102,6 +102,6 @@ Keep all image and vector layers as a Smart Object. it’s important to use nond
 All icons and logos must be implemented as a `VECTOR ASSET` only. Never use `JPG`, `PNG`, `SCREENSHOT` files.
 
 ### Font layers
-All font layers must be implemented as a `TEXT` only. Never use pictures with text. Every paragraph, title, subtitle etc must have its own layer.
+All font layers must be implemented as a `TEXT` only. Never use pictures with a text. Every paragraph, title, subtitle etc must have its own layer.
 
 > **IMPORTANT:** Please, never use `SCREENSHOTS` in the design files. Only high-quality assets.
