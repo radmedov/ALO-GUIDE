@@ -3,20 +3,20 @@
 
 ## Index
 - [Assets requirements](#assets-requirements)
-- [The Grid](#the-grid)
+- [The grid](#the-grid)
 - [Fonts](#fonts)
 - [Sketch/PSD file requirements](#sketchpsd-file-requirements)
     - [Artboards](#artboards)
     - [Organize files](#organize-files)
-    - [Smart Objects(PSD)](#smart-objectspsd)
-    - [Icons and Logos](#icons-and-logos)
-    - [Font Layers](#font-layers)
+    - [Smart objects(PSD)](#smart-objectspsd)
+    - [Icons and logos](#icons-and-logos)
+    - [Font layers](#font-layers)
   
 ## Assets requirements
 
 > ****We are using a progressive image rendering on the website. It means that browser is loading the images according to the screen DPR(Device Pixel Ratio) of the user(e.g., If the user has 4K/5K/Retina monitor the browser will load only high-resolution assets and vice versa.). It's very important to upload only the assets with the following sizes:
 
-- **Universal Banners:** Desktop - `2340px` width, Mobile - `1200px` width.
+- **Universal banners:** Desktop - `2340px` width, Mobile - `1200px` width.
 
 - **Homepage images:** Desktop - `2340px` width, Mobile - `750px` width.
 
@@ -32,7 +32,7 @@
 
 > **A gradient is not allowed on the Universal Banners.
 
-## The Grid
+## The grid
 
 The grid is the common language that will help the designer and developer communicate how space, perspective, and aspect ratios work and appear.
 
@@ -91,7 +91,7 @@ Good file management goes a long way here. Organize your folder structure into l
 Consider the HTML structure when grouping files; this helps make the handoff more logical. `NAME EVERY SINGLE LAYER.`
 Color code or add prefixes to layer names and folders to insinuate interactivity, such as hover states. This visual cue is really helpful for developers because with hundreds or more layers to sift through it can be easy to miss something (particularly hidden layers). Have a conversation with the developer so that he or she understands your color- or text-coding meanings. `DELETE UNUSED LAYERS.`
 
-### Smart Objects(PSD)
+### Smart objects(PSD)
 Keep all image and vector layers as a Smart Object. it’s important to use nondestructive techniques, such as layer styles. ([Nondestructive file practices](https://helpx.adobe.com/photoshop/using/nondestructive-editing.html) allow you to make changes without altering the original information or layer.)
 
 ### Icons and logos
