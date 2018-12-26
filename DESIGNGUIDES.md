@@ -18,7 +18,7 @@ We are using a progressive image rendering on the website. It means that browser
 
 - **Universal banners:** Desktop - `2340px` width, Mobile - `1200px` width.
 
-- **Homepage images:** Desktop - `2340px` width, Mobile - `750px` width.
+- **Homepage images:** Desktop - `2340px` width, Mobile - `1200px` width.
 
 - **Full screen images:** Desktop - `5760px` width, Mobile - `2340px` width. 
 
