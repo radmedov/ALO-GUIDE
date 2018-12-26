@@ -20,7 +20,7 @@ We are using a progressive image rendering on the website. It means that browser
 
 - **Homepage images:** Desktop - `2340px` width, Mobile - `750px` width.
 
-- **Full screem images:** Desktop - `5760px` width, Mobile - `2340px` width. 
+- **Full screen images:** Desktop - `5760px` width, Mobile - `2340px` width. 
 
 - **Collection's full screen image:** `5760px` width.
 
