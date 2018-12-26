@@ -1,8 +1,6 @@
 
 # Design Guide ALO web
 
-##Table of content
-
 ## Index
 1. [The Grid](#the-grid)
 2. [Assets requirements](#assets-requirements)
