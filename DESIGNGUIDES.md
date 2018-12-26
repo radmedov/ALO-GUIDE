@@ -2,8 +2,8 @@
 # Design Guide ALO web
 
 ## Index
-- [The Grid](#the-grid)
 - [Assets requirements](#assets-requirements)
+- [The Grid](#the-grid)
 - [Fonts](#fonts)
 - [Sketch/PSD file requirements](#sketchpsd-file-requirements)
     - [Artboards](#artboards)
@@ -12,6 +12,25 @@
     - [Icons and Logos](#icons-and-logos)
     - [Font Layers](#font-layers)
   
+## Assets requirements
+
+> ****We are using a progressive image rendering on the website. It means that browser is loading the images according to the screen DPR(Device Pixel Ratio) of the user(e.g., If the user has 4K/5K/Retina monitor the browser will load only high-resolution assets and vice versa.). It's very important to upload only the assets with the following sizes:
+
+- **Universal Banners:** Desktop - `2340px` width, Mobile - `1200px` width.
+
+- **Homepage images:** Desktop - `2340px` width, Mobile - `750px` width.
+
+- **Full screem images:** Desktop - `5760px` width, Mobile - `2340px` width. 
+
+- **Collection's full screen image:** `5760px` width.
+
+- **Product image:** `930px` width.
+
+- **File format:** `JPG` only.
+
+> **All other assets must be at least @3x (e.g., if image has width 500px in sketch/psd export as 500 * 3=1500px).
+
+> **A gradient is not allowed on the Universal Banners.
 
 ## The Grid
 
@@ -39,29 +58,9 @@ Large: 990px;
 Widescreen: 1366px;
 ```
 
- > **Mobile version <768px, Desktop version >768px
+> **Mobile version <768px, Desktop version >768px
 
 > **Please, never start an element in the gap. Only inside of columns!!!
-
-## Assets requirements
-
-> ****We are using a progressive image rendering on the website. It means that browser is loading the images according to the screen DPR(Device Pixel Ratio) of the user(e.g., If the user has 4K/5K/Retina monitor the browser will load only high-resolution assets and vice versa.). It's very important to upload only the assets with the following sizes:
-
-- **Universal Banners:** Desktop - `2340px` width, Mobile - `1200px` width.
-
-- **Homepage images:** Desktop - `2340px` width, Mobile - `750px` width.
-
-- **Full screem images:** Desktop - `5760px` width, Mobile - `2340px` width. 
-
-- **Collection's full screen image:** `5760px` width.
-
-- **Product image:** `930px` width.
-
-- **File format:** `JPG` only.
-
-> **All other assets must be at least @3x (e.g., if image has width 500px in sketch/psd export as 500 * 3=1500px).
-
-> **A gradient is not allowed on the Universal Banners.
 
 ## Fonts
 
