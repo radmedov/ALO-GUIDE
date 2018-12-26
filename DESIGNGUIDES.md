@@ -38,6 +38,10 @@ The grid is the common language that will help the designer and developer commun
 
 We are using a [Bootstrap 4.0](https://getbootstrap.com/docs/4.2/layout/grid/) grid system with gaps.
 
+### Max container width
+
+1170px
+
 ### Number of columns
 
 12 columns
