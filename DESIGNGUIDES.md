@@ -6,11 +6,11 @@
 - [Assets requirements](#assets-requirements)
 - [Fonts](#fonts)
 - [Sketch/PSD file requirements](#sketchpsd-file-requirements)
-  -[Artboards](#artboards)
-  -[Organize files](#organize-files)
-  -[Smart Objects(PSD)](#smart-objectspsd)
-  -[Icons and Logos](#icons-and-logos)
-  -[Font Layers](#font-layers)
+    -[Artboards](#artboards)
+    -[Organize files](#organize-files)
+    -[Smart Objects(PSD)](#smart-objectspsd)
+    -[Icons and Logos](#icons-and-logos)
+    -[Font Layers](#font-layers)
   
 
 ## The Grid
