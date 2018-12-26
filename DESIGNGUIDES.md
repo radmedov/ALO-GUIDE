@@ -58,7 +58,7 @@ Large: 990px;
 Widescreen: 1366px;
 ```
 
-> **Mobile version <768px, Desktop version >768px
+> **Mobile version <768px, Desktop version ≥768px
 
 > **Please, never start an element in the gap. Only inside of columns!!!
 
