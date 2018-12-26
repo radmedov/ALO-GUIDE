@@ -78,3 +78,5 @@ Color code or add prefixes to layer names and folders to insinuate interactivity
 - **Icons and logos:** All icons and logos must be implemented as a `VECTOR ASSET` only. Never use `JPG`, `PNG`, `SCREENSHOT` files.
 
 - **Font layers:** All font layers must be implemented as a `TEXT` only. Never use pictures with text. Every paragraph, title, subtitle etc must have its own layer.
+
+> **Please, never use `SCREENSHOTS` in the design files. Only high-quality assets.
