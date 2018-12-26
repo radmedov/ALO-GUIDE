@@ -35,7 +35,7 @@ Widescreen: 1366px;
 
 - **Homepage images:** Desktop - `2340px` width, Mobile - `750px` width.
 
-- **Full screem images:** Desktop - `5760px` width, Mobile, `2340px` width. 
+- **Full screem images:** Desktop - `5760px` width, Mobile - `2340px` width. 
 
 - **Collection's full screen image:** `5760px` width.
 
