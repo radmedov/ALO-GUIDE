@@ -55,13 +55,21 @@ We are using a [Bootstrap 4.0](https://getbootstrap.com/docs/4.2/layout/grid/) g
 
 It is advisable to use only the following values: 0px, 16px, 24px, 48px, 75px.
 
-### Breakpoints
+### Breakpoints(Alo Yoga)
 
 ```
 Small: 375px;
 Medium: 768px;
 Large: 990px;
 Widescreen: 1366px;
+```
+### Breakpoints(AloGives)
+
+```
+Small: 576px;
+Medium: 768px;
+Large: 992px;
+Widescreen: 1200px;
 ```
 
 > **NOTE:** Mobile version <768px, Desktop version ≥768px
