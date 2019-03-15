@@ -52,7 +52,6 @@ We are using a progressive image rendering on the website. It means that browser
 - **File format:** `JPG` only.
 
 > **NOTE:** All other assets must be at least @3x (e.g., if image has width 500px in sketch/psd export as 500 * 3=1500px).
-
 > **IMPORTANT:** A gradient is not allowed on the Universal Banners.
 
 ## The grid
