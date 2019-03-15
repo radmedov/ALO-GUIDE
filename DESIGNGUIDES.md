@@ -1,6 +1,6 @@
 
 # Design Guide ALO web
-> **IMPORTANT:**It is preferable to provide a Sketch file instead of PSD. Why? Read below:
+> **IMPORTANT:** It is preferable to provide a Sketch file instead of PSD. Why? Read below:
 
 ```
 100% Non-Destructive. 
