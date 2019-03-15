@@ -7,6 +7,7 @@
 - [Fonts](#fonts)
 - [Sketch/PSD file requirements](#sketchpsd-file-requirements)
     - [Artboards](#artboards)
+    - [Initial settings(PSD)](#initial-settingspsd)
     - [Organize files](#organize-files)
     - [Smart objects(PSD)](#smart-objectspsd)
     - [Icons and logos](#icons-and-logos)
