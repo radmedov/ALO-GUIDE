@@ -12,7 +12,8 @@ the same safety net that causes a lot of mess and contributes to file bloat.
 
 Sketch is intended for web-design.
 Whether you’re designing a responsive website, an app icon or a batch of material design elements,
-Sketch has a variety of pre-loaded templates that are all perfectly sized for your project and grid settings out of the box.
+Sketch has a variety of pre-loaded templates that are all perfectly sized for your project
+and grid settings out of the box.
 ```
 
 
