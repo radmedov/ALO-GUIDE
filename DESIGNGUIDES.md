@@ -89,7 +89,14 @@ We are using only following fonts on the web-site:
 ## Sketch/PSD file requirements
 
 ### Artboards
-It's very important to use artboards with a unique name. The file must contain only task related artboards (e.g., `EOY-Sale-Desktop_1440px`, `EOY-Sale-Mobile_320px`)
+It's very important to use artboards with a unique name. The file must contain only task related artboards (e.g., `EOY-Sale-Desktop_1440px`, `EOY-Sale-Mobile_320px`). Desktop and mobile version must have its own artboard in the same file.
+
+### Initial settings(PSD)
+It's very important to use the following settings and rules:
+- `72ppi` only
+- No floating pixels(e.g., `23,5px` is incorrect `23px` is correct)
+- Do not use points(e.g., `13pt` is incorrect `13px` is correct)
+> **IMPORTANT:** The height of text block must be exactly as a line height in text settings!!!.
 
 ### Organize files
 One of the most important parts of the handoff is the ability for the developer to understand the intent of the designer.
@@ -101,9 +108,10 @@ Color code or add prefixes to layer names and folders to insinuate interactivity
 Keep all image and vector layers as a Smart Object. it’s important to use nondestructive techniques, such as layer styles. ([Nondestructive file practices](https://helpx.adobe.com/photoshop/using/nondestructive-editing.html) allow you to make changes without altering the original information or layer.)
 
 ### Icons and logos
-All icons and logos must be implemented as a `VECTOR ASSET` only. Never use `JPG`, `PNG`, `SCREENSHOT` files.
+All icons and logos must be implemented as a `VECTOR ASSET` only. Never use `RASTERIZED LAYERS` e.g. `JPG`, `PNG`, `SCREENSHOT` files. 
 
 ### Font layers
 All font layers must be implemented as a `TEXT` only. Never use pictures with a text. Every paragraph, title, subtitle etc must have its own layer.
 
-> **IMPORTANT:** Please, never use `SCREENSHOTS` in the design files. Only high-quality assets.
+> **IMPORTANT:** Please, never use `SCREENSHOTS`, `RASTERIZED LAYERS` in the design files. Only high-quality assets.
+> **IMPORTANT:** Double check that you use design elements that are within the design style of that particular page/website.(e.g., style of buttons, headings, paragraphs etc must be the same as already exist on that page.)
