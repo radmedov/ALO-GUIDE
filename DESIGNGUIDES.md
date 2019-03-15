@@ -2,7 +2,9 @@
 # Design Guide ALO web
 > **IMPORTANT:**It is preferable to provide a Sketch file instead of PSD. Why? Read below:
 
-```100% Non-Destructive. Photoshop has the capability to remain non-destructive, but it takes a steady hand not to break things. If you’re a web designer who uses Photoshop, you might find yourself conducting the same hide-away performance that I’ve often found myself doing out of necessity. Hiding that extra copy of a layer in its vector or otherwise for safe assurance, the same safety net that causes a lot of mess and contributes to file bloat.```
+```
+100% Non-Destructive. Photoshop has the capability to remain non-destructive, but it takes a steady hand not to break things. If you’re a web designer who uses Photoshop, you might find yourself conducting the same hide-away performance that I’ve often found myself doing out of necessity. Hiding that extra copy of a layer in its vector or otherwise for safe assurance, the same safety net that causes a lot of mess and contributes to file bloat.
+```
 
 
 
