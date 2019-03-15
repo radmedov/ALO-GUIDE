@@ -15,7 +15,7 @@ Whether you’re designing a responsive website, an app icon or a batch of mater
 Sketch has a variety of pre-loaded templates that are all perfectly sized for your project
 and grid settings out of the box.
 ```
-> **NOTE:** It is impossible to code web-site/landing page/any web element with a `JPG` file since we are unable extract all needed information from the `JPG`(e.g., measure spacing, font-size, font-weight, line-height, letter-spacing etc).
+> **NOTE:** It is impossible to code a `web-site/landing page/any web element` with a `JPG` file since we are unable extract all needed information from the `JPG`(e.g., measure spacing, font-size, font-weight, line-height, letter-spacing etc).
 Please provide the developers only with a proper Sketch file.
 
 
