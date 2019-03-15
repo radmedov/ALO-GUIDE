@@ -9,6 +9,9 @@ but it takes a steady hand not to break things. If you’re a web designer who u
 you might find yourself conducting the same hide-away performance.
 Hiding that extra copy of a layer in its vector or otherwise for safe assurance, 
 the same safety net that causes a lot of mess and contributes to file bloat.
+
+Sketch is intended for web-design.
+Whether you’re designing a responsive website, an app icon or a batch of material design elements, Sketch has a variety of pre-loaded templates that are all perfectly sized for your project.
 ```
 
 
