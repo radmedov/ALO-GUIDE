@@ -4,7 +4,7 @@
 
 ```
 100% Non-Destructive. 
-Photoshop has the capability to remain non-destructive, 
+Photoshop has the capability to remain non-destructive([Nondestructive file practices](https://helpx.adobe.com/photoshop/using/nondestructive-editing.html), 
 but it takes a steady hand not to break things. If you’re a web designer who uses Photoshop, 
 you might find yourself conducting the same hide-away performance.
 Hiding that extra copy of a layer in its vector or otherwise for safe assurance, 
