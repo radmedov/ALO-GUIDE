@@ -7,7 +7,7 @@
 Photoshop has the capability to remain non-destructive, 
 but it takes a steady hand not to break things. If you’re a web designer who uses Photoshop, 
 you might find yourself conducting the hide-away performance.
-Hiding that extra copy of a layer in its vector or otherwise for safe assurance, 
+Hiding that extra copy of a layer in its vector or otherwise for safety assurance, 
 the same safety net that causes a lot of mess and contributes to file bloat.
 
 Sketch is intended for web-design.
