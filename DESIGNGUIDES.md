@@ -96,7 +96,7 @@ It's very important to use the following settings and rules:
 - `72ppi` only
 - No floating pixels(e.g., `23,5px` is incorrect `23px` is correct)
 - Do not use points(e.g., `13pt` is incorrect `13px` is correct)
-> **IMPORTANT:** The height of text block must be exactly as a line height in text settings!!!.
+> **IMPORTANT:** The height of text block must be exactly as a line height in text settings!!!
 
 ### Organize files
 One of the most important parts of the handoff is the ability for the developer to understand the intent of the designer.
@@ -114,4 +114,4 @@ All icons and logos must be implemented as a `VECTOR ASSET` only. Never use `RAS
 All font layers must be implemented as a `TEXT` only. Never use pictures with a text. Every paragraph, title, subtitle etc must have its own layer.
 
 > **IMPORTANT:** Please, never use `SCREENSHOTS`, `RASTERIZED LAYERS` in the design files. Only high-quality assets.
-> **IMPORTANT:** Double check that you use design elements that are within the design style of that particular page/website.(e.g., style of buttons, headings, paragraphs etc must be the same as already exist on that page.)
+> **IMPORTANT:** Double check that you use design elements that are within the design style of that particular page/website.(e.g., style of buttons, icons, headings, paragraphs etc must be the same as already exist on that page.)
