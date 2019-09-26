@@ -105,17 +105,17 @@ Widescreen: 1200px;
 
 We are using only following fonts on the web-site:
 
-- **Arquitecta**
+- **Arquitecta** // normal or 400
 
-- **Arquitecta Thin**
+- **Arquitecta Thin** // 100
 
-- **Arquitecta Black**
+- **Arquitecta Black** // 900
 
-- **Arquitecta Bold**
+- **Arquitecta Bold** // 700
 
-- **Arquitecta Book**
+- **Arquitecta Book** // 200
 
-- **Arquitecta Medium**
+- **Arquitecta Medium** // 500
 
 > **NOTE:** Never use `ITALIC` font style.
 
